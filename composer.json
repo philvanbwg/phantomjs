@@ -1,0 +1,8 @@
+{
+    "name": "philvanbwg/phantomjs",
+    "type": "component",
+    "version": "1.8.2",
+    "bin": [
+         "bin/phantomjs"
+    ]
+}
